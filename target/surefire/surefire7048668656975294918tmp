@@ -1,0 +1,25 @@
+#surefire
+#Wed Mar 11 22:20:18 SGT 2015
+testClassesDirectory=/home/joel/repos/IdeaProjects/Lab08g02A0108165J/target/test-classes
+classPathUrl.4=/home/joel/.m2/repository/Lab04g02A0108165J/lab4/0.0.1-SNAPSHOT/lab4-0.0.1-SNAPSHOT.jar
+forkMode=once
+classPathUrl.3=/home/joel/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar
+classPathUrl.2=/home/joel/.m2/repository/junit/junit-dep/4.8.2/junit-dep-4.8.2.jar
+useManifestOnlyJar=true
+classPathUrl.1=/home/joel/repos/IdeaProjects/Lab08g02A0108165J/target/classes
+reportsDirectory=/home/joel/repos/IdeaProjects/Lab08g02A0108165J/target/surefire-reports
+classPathUrl.0=/home/joel/repos/IdeaProjects/Lab08g02A0108165J/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=/home/joel/repos/IdeaProjects/Lab08g02A0108165J/src/test/java
+surefireClassPathUrl.1=/home/joel/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar
+surefireClassPathUrl.0=/home/joel/.m2/repository/org/apache/maven/surefire/surefire-junit4/2.10/surefire-junit4-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false

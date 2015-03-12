@@ -1,0 +1,31 @@
+CS2010 Lab 08
+===================================
+
+TONG Haowen Joel
+
+A0108165J
+
+## JAR Generation
+
+    $ mvn install
+
+
+## Run Maven unit tests
+
+    $ mvn test
+
+
+## JAR Execution
+
+Replace `<numerator>` and `<denominator>` with appropriate numbers.
+
+    $ java -jar org.joeltong-1.0-SNAPSHOT-jar-with-dependencies.jar <numerator> <denominator>
+
+e.g.
+
+    $ java -jar org.joeltong-1.0-SNAPSHOT-jar-with-dependencies.jar 3 97
+
+
+## Test logs
+
+Test logs in `in/` and `out/`
